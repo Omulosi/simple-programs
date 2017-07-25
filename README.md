@@ -1,1 +1,1 @@
-Solutions to Andela's programming assignment
+Simple python programs
